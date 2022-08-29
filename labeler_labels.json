@@ -16,6 +16,11 @@
 			"color": "EAE435"
 		},
 		{
+			"name": "Status: Approved",
+			"description": "",
+			"color": "91CA55"
+		},
+		{
 			"name": "Type: Epic",
 			"description": "",
 			"color": "BFD4F2"
@@ -26,12 +31,22 @@
 			"color": "FF6DD9"
 		},
 		{
+			"name": "Type: Security",
+			"description": "",
+			"color": "D73A4A"
+		},
+		{
+			"name": "Type: Fix",
+			"description": "",
+			"color": "91CA55"
+		},
+		{
 			"name": "Type: Feature",
 			"description": "",
 			"color": "6DFF6D"
 		},
 		{
-			"name": "Type: Idea",
+			"name": "Type: Docs",
 			"description": "",
 			"color": "6DE6FF"
 		},
@@ -76,19 +91,44 @@
 			"color": "1d76db"
 		},
 		{
+			"name": "For: Smart Contract",
+			"description": "",
+			"color": "5ebeff"
+		},
+		{
 			"name": "For: Documentation",
 			"description": "",
 			"color": "BABABA"
 		},
 		{
-			"name": "Impacts: UI/UX",
+			"name": "For: UI/UX",
 			"description": "",
 			"color": "7ED321"
 		},
 		{
-			"name": "Impacts: Developers",
+			"name": "For: Business",
 			"description": "",
 			"color": "006b75"
+		},
+		{
+			"name": "Work: Obvious",
+			"description": "",
+			"color": "91ca55"
+		},
+		{
+			"name": "Work: Complicated",
+			"description": "",
+			"color": "FBCA04"
+		},
+		{
+			"name": "Work: Complex",
+			"description": "",
+			"color": "D93F0B"
+		},
+		{
+			"name": "Work: Chaotic",
+			"description": "",
+			"color": "fbca04"
 		}
 	]
 }
